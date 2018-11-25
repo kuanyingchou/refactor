@@ -1,0 +1,15 @@
+{
+  "name": "refactor",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/kuanyingchou/refactor.git",
+  "author": "KUAN-YING CHOU <kuanyingchou@gmail.com>",
+  "license": "MIT",
+  "private": false,
+  "devDependencies": {
+    "jest": "^23.6.0"
+  },
+  "scripts": {
+    "test": "jest"
+  }
+}

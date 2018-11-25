@@ -1,0 +1,55 @@
+[
+  {
+  "customer": "BigCo",
+  "performances": [
+    {
+      "playID": "hamlet",
+      "audience": 55
+    },
+    {
+      "playID": "as-like",
+      "audience": 35
+    },
+    {
+      "playID": "othello",
+      "audience": 40
+    }
+  ]
+  },
+  {
+  "customer": "Google",
+  "performances": [
+    {
+      "playID": "hamlet",
+      "audience": 1000
+    },
+    {
+      "playID": "as-like",
+      "audience": 200
+    },
+    {
+      "playID": "othello",
+      "audience": 350
+    }
+  ]
+  },
+
+  {
+  "customer": "Apple",
+  "performances": [
+    {
+      "playID": "hamlet",
+      "audience": 5
+    },
+    {
+      "playID": "as-like",
+      "audience": 50
+    },
+    {
+      "playID": "othello",
+      "audience": 500
+    }
+  ]
+  }
+
+]
