@@ -1,4 +1,5 @@
 const statement = require('./index');
+
 const fs = require('fs');
 
 function read(filename) {
